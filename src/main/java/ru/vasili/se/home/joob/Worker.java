@@ -17,7 +17,6 @@ public class Worker {
         this.age = age;
 
     }
-
     void getFullInfo() {
         System.out.println("fullName: " + fullName + " | position: " + position
                 + " | email: " + email + " | phone: " + phone + " | salary: " + salary + " | age: "
